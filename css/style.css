@@ -1,4 +1,4 @@
-@import url('https://Saint-Ra/CDN@1.0/BoutiqueBitmap9x9_Square_Dot/result.css');
+@import url('https://cdn.jsdelivr.net/gh/Saint-Ra/CDN/BoutiqueBitmap9x9_Square_Dot/result.css');
 body {
   max-width: 100%;
   background: url("../img/begger.jpg") no-repeat;
@@ -7,11 +7,10 @@ body {
 h1 {
   font-family: 'BoutiqueBitmap9x9 Square Dot';
   text-align: center;
-  color: aquamarine;
+  color: #a20043;
 }
 p {
   font-family: 'BoutiqueBitmap9x9 Square Dot';
   font-size: 1vw;
   color: white;
-  background: rgba(0, 0, 0, 0.75);
 }
