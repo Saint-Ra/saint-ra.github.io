@@ -13,6 +13,7 @@ h1 {
   font-family: 'BoutiqueBitmap9x9 Square Dot';
   font-size: 1vw;
   color: #000000;
+  overflow: hidden;
 }
 #1 {
   margin: 0 10vw;
@@ -20,6 +21,6 @@ h1 {
 }
 #1 p{
   font-family: 'BoutiqueBitmap9x9 Square Dot';
-  font-size: 90vw;
+  font-size: 50vw;
   color: #7fffd4;
 }
