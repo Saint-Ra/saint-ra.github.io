@@ -9,18 +9,21 @@ h1 {
   text-align: center;
   color: #dc0039;
 }
-#2 p {
+#2 {
+  overflow: hidden;
+}
+#2 {
   font-family: 'BoutiqueBitmap9x9 Square Dot';
   font-size: 1vw;
   color: #000000;
-  overflow: hidden;
+
 }
 #1 {
   margin: 0 10vw;
   float: left;
 }
-#1 p{
+#1 {
   font-family: 'BoutiqueBitmap9x9 Square Dot';
-  font-size: 50vw;
+  font-size: 5em;
   color: #7fffd4;
 }
