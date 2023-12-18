@@ -14,9 +14,9 @@ p {
   font-size: 1vw;
   color: #000000;
 }
-#1 p{
-  float: left;
+#1 {
   font-family: 'BoutiqueBitmap9x9 Square Dot';
-  font-size: 0.5vw;
-  color: white;
+  font-size: 90vw;
+  float: left;
+  color: aquamarine;
 }
