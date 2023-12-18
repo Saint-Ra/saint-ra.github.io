@@ -7,11 +7,17 @@ body {
 h1 {
   font-family: 'BoutiqueBitmap9x9 Square Dot';
   text-align: center;
-  color: #ff0044;
+  color: #dc0039;
 }
 p {
   font-family: 'BoutiqueBitmap9x9 Square Dot';
-  font-size: 2vw;
+  font-size: 1.5vw;
   font-weight: bold;
   color: #000000;
+}
+#1 {
+  float: right;
+  font-family: 'BoutiqueBitmap9x9 Square Dot';
+  font-size: 0.5vw;
+  color: white;
 }
