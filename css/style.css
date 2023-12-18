@@ -14,8 +14,8 @@ p {
   font-size: 1vw;
   color: #000000;
 }
-#1 {
-  float: right;
+#1 p{
+  float: left;
   font-family: 'BoutiqueBitmap9x9 Square Dot';
   font-size: 0.5vw;
   color: white;
